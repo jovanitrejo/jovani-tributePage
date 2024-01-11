@@ -1,0 +1,86 @@
+* {
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  }
+  
+  #logo {
+    width: max(35px, 1vw);
+    padding-right: 10px;
+    margin-bottom: 3px;
+  }
+  
+  #title {
+    padding-left: 10px;
+  }
+  
+  .logoAndName {
+    display: flex;
+    justify-content: center; 
+  }
+  
+  p {
+    text-align: center;
+    margin-top: 0;
+    padding-bottom: 10px;
+  }
+  
+  #image {
+    max-width: 100%;
+    width: 90%;
+    display: block;
+    margin: auto;
+  }
+  
+  .img-alt {
+    margin-top: 15px;
+  }
+  
+  .subject {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    font-size: 1.2rem;
+  }
+  
+  .timeline {
+    margin: auto;
+    max-width: 500px;
+    padding-right: 20px;
+  }
+  
+  .year {
+    font-weight: bold;
+  }
+  
+  li {
+    padding-top: 10px;
+  }
+  
+  li:last-of-type {
+    padding-bottom: 10px;
+  }
+  
+  .quote {
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 30px;
+    font-style: italic;
+  }
+  
+  .quoteName {
+    margin-top: -10px;
+  }
+  
+  .wikiPage {
+    padding-bottom: 20px;
+  }
+  
+  a {
+    cursor: select;
+    color: blue;
+  }
+  
+  
+  a:visited {
+    color: purple;
+  }
+  
